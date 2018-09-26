@@ -1,0 +1,7 @@
+2018-09-26 16:07:52,754 - INFO - Opening the Browser
+2018-09-26 16:07:52,865 - INFO - Opening the Home Page.
+2018-09-26 16:07:56,763 - INFO - Verify User is able to submit the form 0
+2018-09-26 16:07:56,764 - INFO - Filling the Name field.
+2018-09-26 16:07:56,887 - INFO - Filling the Message text area.
+2018-09-26 16:07:56,984 - INFO - Submitting the form.
+2018-09-26 16:08:01,232 - INFO - Quiting the Browser
